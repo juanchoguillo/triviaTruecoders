@@ -1,0 +1,13 @@
+C:\Users\vanes\repos\TriviaProject\TriviaProject\bin\Debug\netcoreapp3.1\TriviaProject.exe
+C:\Users\vanes\repos\TriviaProject\TriviaProject\bin\Debug\netcoreapp3.1\TriviaProject.deps.json
+C:\Users\vanes\repos\TriviaProject\TriviaProject\bin\Debug\netcoreapp3.1\TriviaProject.runtimeconfig.json
+C:\Users\vanes\repos\TriviaProject\TriviaProject\bin\Debug\netcoreapp3.1\TriviaProject.runtimeconfig.dev.json
+C:\Users\vanes\repos\TriviaProject\TriviaProject\bin\Debug\netcoreapp3.1\TriviaProject.dll
+C:\Users\vanes\repos\TriviaProject\TriviaProject\bin\Debug\netcoreapp3.1\TriviaProject.pdb
+C:\Users\vanes\repos\TriviaProject\TriviaProject\obj\Debug\netcoreapp3.1\TriviaProject.csprojAssemblyReference.cache
+C:\Users\vanes\repos\TriviaProject\TriviaProject\obj\Debug\netcoreapp3.1\TriviaProject.AssemblyInfoInputs.cache
+C:\Users\vanes\repos\TriviaProject\TriviaProject\obj\Debug\netcoreapp3.1\TriviaProject.AssemblyInfo.cs
+C:\Users\vanes\repos\TriviaProject\TriviaProject\obj\Debug\netcoreapp3.1\TriviaProject.csproj.CoreCompileInputs.cache
+C:\Users\vanes\repos\TriviaProject\TriviaProject\obj\Debug\netcoreapp3.1\TriviaProject.dll
+C:\Users\vanes\repos\TriviaProject\TriviaProject\obj\Debug\netcoreapp3.1\TriviaProject.pdb
+C:\Users\vanes\repos\TriviaProject\TriviaProject\obj\Debug\netcoreapp3.1\TriviaProject.genruntimeconfig.cache
